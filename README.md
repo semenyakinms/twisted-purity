@@ -4,7 +4,7 @@ This repository contais code computing twisted purities, accompanying paper "Cla
 
 **Installation**
 
-The code is essentially using QuSpin library, for installation see
+The requirements are lister in [requirements.txt](/requirements.txt). The code is essentially using QuSpin library, for installation details see
 ```
 https://quspin.github.io/QuSpin/
 ```
